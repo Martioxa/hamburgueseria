@@ -1,0 +1,14 @@
+.carousel-item img{
+    height: 600px;
+    object-fit: cover;
+}
+.oferta{
+    display: flex ;
+    gap: 30px;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+h2{
+   text-align: center;
+   margin-top: 7rem;
+}
